@@ -7,3 +7,5 @@ Programın çalışırkenki videosu ---> https://drive.google.com/file/d/1aENdYo
 #ikici ödev
 traffic_signal_program
 Bu program, trafik ışıklarının kırmızı (led 5, turuncu), yeşil (led 1, turuncu) ve sarı(led 7, turuncu) ışıklarının yanıp sönmesini kontrol eder ve trafik akışını yönlendirir. Bu kod, aynı zamanda tek portlu bir RAM kullanarak ışık döngüsünün zamanlamasını kontrol eder. --->  https://drive.google.com/file/d/1LDI88--TIB8GKS9gk017g6DsiOCL18sz/view?usp=share_link
+
+https://github.com/adel6-ahmed/rum.git
